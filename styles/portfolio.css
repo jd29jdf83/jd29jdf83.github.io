@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(20, 20, 20);
+}
+
+#header {
+    line-height: 0.9em;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#falsedawnProject {
+    line-height: 0.9em;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#riseProject {
+    line-height: 0.9em;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#legalableProject {
+    line-height: 0.9em;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+a:link {
+    color: rgb(0, 200, 200);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: rgb(0, 200, 200);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:active {
+    color: rgb(0, 200, 200);
+    background-color: transparent;
+    text-decoration: none;
+  }
